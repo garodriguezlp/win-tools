@@ -13,3 +13,4 @@ be productive on Windows without hunting for installers.
 - ripgrep (rg) — line-oriented search tool that respects .gitignore
 - fd — simple, fast alternative to find
 - jq - lightweight and flexible command-line JSON processor
+- bat - cat clone with syntax highlighting and Git integration
