@@ -12,3 +12,4 @@ be productive on Windows without hunting for installers.
 - fzf — blazing fast fuzzy finder for the terminal
 - ripgrep (rg) — line-oriented search tool that respects .gitignore
 - fd — simple, fast alternative to find
+- jq - lightweight and flexible command-line JSON processor
