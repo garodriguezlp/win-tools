@@ -15,3 +15,4 @@ be productive on Windows without hunting for installers.
 - jq - lightweight and flexible command-line JSON processor
 - bat - cat clone with syntax highlighting and Git integration
 - jbang - run Java applications with ease
+- eza - modern replacement for ls
