@@ -16,3 +16,4 @@ be productive on Windows without hunting for installers.
 - bat - cat clone with syntax highlighting and Git integration
 - jbang - run Java applications with ease
 - eza - modern replacement for ls
+- nats - NATS CLI for interacting with NATS servers
